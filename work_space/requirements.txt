@@ -1,0 +1,8 @@
+numpy
+notebook
+matplotlib
+pillow
+opencv-python
+pycocotools
+onnxruntime
+onnx
